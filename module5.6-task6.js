@@ -1,0 +1,1 @@
+const allEqual = arr => arr.every(value => value === arr[0])
